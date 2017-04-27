@@ -1,0 +1,8 @@
+example for create a new repository on the command line:
+
+touch readme.md
+git init
+git add readme.md
+git commit -m "first commit"
+git remote add origin git@github.com:yuanyifly/example_one.git
+git push -u origin master
